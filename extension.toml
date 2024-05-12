@@ -1,0 +1,11 @@
+id = "plume"
+name = "Plume"
+description = "Plume syntax highlighting in Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Sisypheus <contact@sisypheus.dev>"]
+repository = "https://github.com/plume-lang/plume-zed"
+
+[grammars.plume]
+repository = "https://github.com/plume-lang/tree-sitter-plume"
+commit = "2796647fa457fb59aa20f72f7d22540f6d1eb3b9"
